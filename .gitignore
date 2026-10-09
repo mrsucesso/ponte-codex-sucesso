@@ -1,0 +1,14 @@
+# Credenciais e configuração local do Hermes/Codex
+.env
+.env.*
+auth.json
+*.token
+*.pem
+*.key
+.hermes/
+.codex/
+
+# Arquivos locais
+*.log
+.DS_Store
+__pycache__/
