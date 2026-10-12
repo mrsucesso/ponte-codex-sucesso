@@ -63,3 +63,9 @@ A instrução completa para o agente dele está em `INSTRUCAO-PARA-O-AGENTE.md`.
 ## Licença
 
 [MIT](LICENSE).
+
+## Meta Ads MCP OAuth (Codex desktop)
+
+Ver [HANDOFF_Codex_Meta_Ads_MCP_OAuth.md](HANDOFF_Codex_Meta_Ads_MCP_OAuth.md).
+
+Bridge HTTPS: `https://meta-ads-oauth.mais.top` → loopback `127.0.0.1:18787`.
